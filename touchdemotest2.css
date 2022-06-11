@@ -1,0 +1,23 @@
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.banner {
+  width: 93.33333333vw;
+  height: 37.33333333vw;
+  overflow: hidden;
+}
+.banner ul {
+  width: 466.66666667vw;
+  height: 37.33333333vw;
+}
+.banner ul li {
+  width: 93.33333333vw;
+  height: 37.33333333vw;
+  float: left;
+}
+.banner ul li img {
+  width: 93.33333333vw;
+  height: 37.33333333vw;
+}
